@@ -36,7 +36,8 @@ This project is a React-based frontend implementation of the landing page for a 
 
 ## Screenshots
 
-_Add screenshots of your landing page here._
+![alt text](images/image.png)
+
 
 ## Acknowledgments
 
