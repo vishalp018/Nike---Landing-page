@@ -11,7 +11,7 @@ This project is a React-based frontend implementation of the landing page for a 
 
 ## Tech Stack
 
-- **React**: JavaScript library for building user interfaces.
+- **React**: JavaScript library for building user interfaces.ui components and states
 - **CSS/SCSS**: For styling the components.
 - **React Icons**: For adding icons to the UI.
 
